@@ -11,7 +11,7 @@
 
 <br />
 
-A Frontend Software Developer and coding Enthusiast. Apart from that I love writing journal and Reading.❤✌
+A Frontend Software Developer and coding Enthusiast. Apart from that I love writing journal✍️ and reading 📖❤✌.
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
