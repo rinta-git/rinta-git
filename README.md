@@ -11,7 +11,7 @@
 
 <br />
 
-Hi,I'm Rinta Roy🙌, a Frontend Software Developer and UI Enthusiast. Apart from that I love getting involved in Problem Solving and Reading.❤✌
+A Frontend Software Developer and coding Enthusiast. Apart from that I love getting involved in Problem Solving and Reading.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
