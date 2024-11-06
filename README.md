@@ -23,7 +23,7 @@ A Frontend Software Developer and coding Enthusiast. Apart from that I love writ
 - 🌱 I’m currently learning Node JS.
 - 💬 Ask me about anything, Would love to answer them.✌
 - 📫 How to reach me: 
-- 📝 Send me an [Email](mailto:mrintaroyofficial@gmail.com%20)
+- 📝 Send me an [Email](mailto:rintaroyofficial@gmail.com%20)
 
 
 
